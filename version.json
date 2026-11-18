@@ -4,5 +4,14 @@
   "notes": {
     "ja": "",
     "en": ""
+  },
+  "services": {
+    "brave": {
+      "ja": "ウェブ全体を調べられます。料金（2026年11月時点）：毎月5ドル分（約1,000回）まで無料、超えた分は1,000回あたり約5ドルをBraveが請求します。登録にはカードが必要です（brave.com/search/api）。上限に達したときやうまくいかないときは Wikipedia を使います",
+      "en": "Searches the whole web. Prices (as of November 2026): free up to $5 a month (about 1,000 searches); beyond that Brave charges about $5 per 1,000. A card is required to sign up (brave.com/search/api). Wikipedia is used when the limit is reached or it doesn't work",
+      "zh-Hans": "可搜索整个网络。费用（2026年11月时）：每月 5 美元（约 1,000 次）以内免费，超出部分 Brave 按每 1,000 次约 5 美元收费。注册需要银行卡（brave.com/search/api）。达到上限或无法使用时改用维基百科",
+      "zh-Hant": "可搜尋整個網路。費用（2026年11月時）：每月 5 美元（約 1,000 次）以內免費，超出部分 Brave 按每 1,000 次約 5 美元收費。註冊需要信用卡（brave.com/search/api）。達到上限或無法使用時改用維基百科",
+      "ko": "웹 전체를 검색할 수 있습니다. 요금(2026년 11월 기준): 매달 5달러(약 1,000회)까지 무료, 넘는 만큼은 1,000회당 약 5달러를 Brave가 청구합니다. 가입에는 카드가 필요합니다 (brave.com/search/api). 상한에 도달하거나 잘 안 될 때는 Wikipedia를 사용합니다"
+    }
   }
 }
